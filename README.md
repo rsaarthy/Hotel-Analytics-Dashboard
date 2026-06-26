@@ -51,7 +51,7 @@ The solution enables users to:
 
 Provides an interactive landing page with navigation to all analytical reports.
 
-![Home Dashboard](Images/Home.png)
+![Home Dashboard](Home.png)
 
 ---
 
@@ -66,7 +66,7 @@ Provides insights into hotel booking performance.
 - Booking Trends
 - Reservation Analysis
 
-![Booking Overview](Images/BookingOverview.png)
+![Booking Overview](BookingOverview.png)
 
 ---
 
@@ -81,7 +81,7 @@ Analyzes revenue performance and booking cancellations.
 - No-show Analysis
 - Revenue Trends
 
-![Revenue Summary](Images/RevenueSummary.png)
+![Revenue Summary](RevenueSummary.png)
 
 ---
 
@@ -96,7 +96,7 @@ Provides customer segmentation and demographic insights.
 - Country Analysis
 - Booking Source
 
-![Guest Demographics](Images/GuestDemographics.png)
+![Guest Demographics](GuestDemographics.png)
 
 ---
 
@@ -111,7 +111,7 @@ Analyzes booking lead times and reservation behavior.
 - Reservation Distribution
 - Booking Patterns
 
-![Lead Time](Images/LeadTime.png)
+![Lead Time](LeadTime.png)
 
 ---
 
