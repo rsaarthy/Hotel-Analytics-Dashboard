@@ -1,113 +1,206 @@
-# Hotel Analytics Dashboard
+# 🏨 Hotel Analytics Dashboard
 
-## Project Overview
+## 📌 Project Overview
 
-This project demonstrates an end-to-end Hotel Analytics Dashboard developed in Power BI to provide business insights into hotel bookings, revenue, cancellations, guest demographics, and booking patterns.
+The **Hotel Analytics Dashboard** is an interactive Power BI solution designed to provide hotel management with actionable insights into booking performance, revenue trends, cancellation patterns, guest demographics, and reservation behavior.
 
-The dashboard enables hotel management to monitor key performance indicators and make data-driven business decisions.
-
----
-
-## Business Problem
-
-Hotel management lacked a centralized reporting solution to analyze:
-
-- Booking trends
-- Revenue performance
-- Cancellation rates
-- Guest demographics
-- Lead time patterns
-
-Manual reporting was time-consuming and limited business visibility.
+The dashboard consolidates multiple business metrics into a single reporting solution, enabling stakeholders to monitor key performance indicators (KPIs) and make data-driven decisions.
 
 ---
 
-## Solution
+## 🎯 Business Problem
 
-Designed an interactive Power BI dashboard that consolidates hotel booking data into a single reporting solution.
+Hotel management relied on manual reports to analyze operational performance, making it difficult to identify trends and monitor business KPIs efficiently.
 
-The dashboard supports drill-down analysis using slicers, KPIs, charts, and interactive navigation.
+The key challenges included:
+
+- Limited visibility into booking performance
+- Difficulty tracking revenue and cancellations
+- No centralized reporting for guest demographics
+- Time-consuming manual reporting process
 
 ---
 
-## Tools Used
+## 💡 Solution
 
-- Power BI
+Developed an interactive **Power BI Dashboard** to centralize hotel performance reporting with dynamic visualizations and KPI tracking.
+
+The solution enables users to:
+
+- Monitor booking trends
+- Analyze revenue performance
+- Track cancellation and no-show rates
+- Understand guest demographics
+- Evaluate booking lead times
+- Interact with reports using slicers and navigation buttons
+
+---
+
+# 🛠️ Tools & Technologies
+
+- Microsoft Power BI
 - Power Query
 - DAX
-- Excel
+- Microsoft Excel
 
 ---
 
-## Dashboard Pages
+# 📊 Dashboard Pages
 
-### Home
+## 🏠 Home
 
-Provides navigation to all reports.
+Provides an interactive landing page with navigation to all analytical reports.
 
-### Booking Overview
+![Home Dashboard](Images/Home.png)
+
+---
+
+## 📅 Booking Overview
+
+Provides insights into hotel booking performance.
+
+### Key Metrics
 
 - Total Bookings
+- Booking Status
 - Booking Trends
-- Occupancy
+- Reservation Analysis
 
-### Revenue Summary
-
-- Revenue Analysis
-- Cancellation Analysis
-- No Show Analysis
-
-### Guest Demographics
-
-- Guest Type
-- Country Analysis
-- Customer Segments
-
-### Lead Time
-
-- Booking Lead Time
-- Reservation Trends
+![Booking Overview](Images/BookingOverview.png)
 
 ---
 
-## Key Features
+## 💰 Revenue Summary & Cancellation Analysis
+
+Analyzes revenue performance and booking cancellations.
+
+### Key Metrics
+
+- Total Revenue
+- Cancellation Rate
+- No-show Analysis
+- Revenue Trends
+
+![Revenue Summary](Images/RevenueSummary.png)
+
+---
+
+## 👥 Guest Demographics
+
+Provides customer segmentation and demographic insights.
+
+### Key Metrics
+
+- Guest Distribution
+- Customer Type
+- Country Analysis
+- Booking Source
+
+![Guest Demographics](Images/GuestDemographics.png)
+
+---
+
+## ⏳ Lead Time Analysis
+
+Analyzes booking lead times and reservation behavior.
+
+### Key Metrics
+
+- Average Lead Time
+- Booking Window
+- Reservation Distribution
+- Booking Patterns
+
+![Lead Time](Images/LeadTime.png)
+
+---
+
+# 📈 Dashboard Features
 
 - Interactive Navigation
 - KPI Cards
 - Dynamic Filters
+- Drill-down Analysis
 - Slicers
-- Drill-through Analysis
-- Responsive Dashboard Design
+- Responsive Report Design
+- Cross-page Navigation
 
 ---
 
-## Business Value
+# 📊 Business Value
 
-- Centralized hotel performance reporting
-- Improved decision-making
-- Reduced manual reporting effort
-- Better visibility into customer behavior
+This dashboard helps hotel management to:
+
+- Improve occupancy planning
+- Monitor revenue performance
+- Reduce cancellation impact
+- Analyze customer behavior
+- Support data-driven decision-making
+- Eliminate manual reporting
 
 ---
 
-## Screenshots
+# 📁 Repository Structure
 
-### Home
+```
+Hotel-Analytics-Dashboard
+│
+├── README.md
+├── Hotel Analytics Dashboard.pbix
+├── Hotel Analytics Dashboard.pdf
+├── Dataset.xlsx
+└── Images
+    ├── Home.png
+    ├── BookingOverview.png
+    ├── RevenueSummary.png
+    ├── GuestDemographics.png
+    └── LeadTime.png
+```
 
-(Add Image)
+---
 
-### Booking Overview
+# 🚀 Future Enhancements
 
-(Add Image)
+- Predictive occupancy forecasting
+- Revenue forecasting
+- Customer segmentation using advanced analytics
+- Automated report refresh
+- Power BI Service deployment
+- Mobile-optimized dashboard
 
-### Revenue Summary
+---
 
-(Add Image)
+# 📷 Dashboard Preview
 
-### Guest Demographics
+| Dashboard | Preview |
+|------------|---------|
+| Home | ✅ |
+| Booking Overview | ✅ |
+| Revenue Summary | ✅ |
+| Guest Demographics | ✅ |
+| Lead Time | ✅ |
 
-(Add Image)
+---
 
-### Lead Time
+# 👨‍💻 Author
 
-(Add Image)
+**Aarthy**
+
+Business Analyst | Data Analyst | Power BI Developer
+
+**Skills**
+
+- Business Analysis
+- Power BI
+- SQL
+- DAX
+- Power Query
+- Excel
+- Requirements Gathering
+- BRD / FRD
+- User Stories
+- UAT
+
+---
+
+⭐ If you found this project useful, feel free to star the repository.
