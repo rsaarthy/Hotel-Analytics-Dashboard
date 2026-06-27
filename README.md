@@ -186,7 +186,7 @@ Hotel-Analytics-Dashboard
 
 **Aarthy**
 
-Business Analyst | Data Analyst | Power BI Developer
+Business Analyst | Power BI Developer
 
 **Skills**
 
